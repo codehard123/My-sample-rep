@@ -1,0 +1,2 @@
+# My-sample-rep
+THIS IS AIMED AT LEARNING GIT
